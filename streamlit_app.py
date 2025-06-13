@@ -129,7 +129,7 @@ st.map(map_df, zoom=9)
 st.subheader("🌍 SDG Impact")
 
 st.markdown("""
-Your afforestation initiative in East Godavari aligns with several **United Nations Sustainable Development Goals (SDGs)**:
+Afforestation initiative in East Godavari aligns with several **United Nations Sustainable Development Goals (SDGs)**:
 
 - 🌳 **SDG 13: Climate Action**  
   Trees absorb CO₂, helping fight climate change.
