@@ -1,0 +1,5 @@
+streamlit
+pandas
+matplotlib
+fpdf
+geopandas  # if you're using maps
