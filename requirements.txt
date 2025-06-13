@@ -1,5 +1,5 @@
 streamlit
 pandas
 matplotlib
+openpyxl
 fpdf
-geopandas  # if you're using maps
