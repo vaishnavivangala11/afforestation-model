@@ -23,7 +23,8 @@ selected_tree = df[df["Tree Name"] == tree].iloc[0]
 
 # Adjusted CO2 calculation
 co2_per_year = selected_tree["CO2_per_year_kg"]
-survival_rate = selected_tree["Survival_Rate"] / 100
+survival_rate = selected_tree["Survival_rate"] / 100
+
 growth_factor = selected_tree["Growth_Factor"] / 100
 adjusted_co2 = age * co2_per_year * survival_rate * growth_factor
 
