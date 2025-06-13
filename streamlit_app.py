@@ -5,7 +5,8 @@ import streamlit as st
 import pandas as pd
 
 # Load your Excel data
-df = pd.read_excel("../data/raw/local_tree_species_data.xlsx")
+df = pd.read_excel("local_tree_species_data.xlsx")
+
 
 st.set_page_config(page_title="Afforestation Impact – East Godavari")
 st.title("🌳 Afforestation Impact Modelling")
