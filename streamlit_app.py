@@ -105,7 +105,7 @@ st.subheader("🌍 SDG Impact")
 st.markdown("""
 ### 🎯 Sustainable Development Goals (SDGs) Impact
 
-By promoting tree planting using real local species in East Godavari, this project actively supports the following SDGs:
+By promoting tree planting using real local species, this project actively supports the following SDGs:
 
 - ✅ **SDG 13: Climate Action**  
   Trees capture atmospheric CO₂, directly contributing to climate change mitigation.
@@ -123,13 +123,12 @@ By promoting tree planting using real local species in East Godavari, this proje
   Tree plantation drives create jobs and improve rural livelihoods through nursery and forestry work.
 
 ---
-By combining science, local knowledge, and technology, our project promotes sustainability . 💚
+By combining science, local knowledge, and technology, our project promotes sustainability. 💚
 """)
-🌱 *st.markdown("""
----
-🌳 st.markdown("""
+
+# Final message
+st.markdown("""
 ---
 🌳 *Your simple act of planting a tree supports global goals and local futures.*  
 ✅ From cleaner air to better jobs, every tree brings us one step closer to the SDGs.
 """)
-
